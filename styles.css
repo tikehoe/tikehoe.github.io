@@ -1,0 +1,25 @@
+body{
+    background: #063474;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 40px;
+}
+h1{
+    color: #FA8E50;
+    text-align: center;
+}
+.about{
+    background-color: #fada5f;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skills{
+    background-color: #fada5f;
+    font-family: 'Times New Roman', Times, serif;
+}
+.projects{
+    background-color: #fada5f;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contact{
+    background-color: #fada5f;
+    font-family: 'Times New Roman', Times, serif;
+}
