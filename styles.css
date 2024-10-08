@@ -15,7 +15,10 @@ h1{
     background-color: #fada5f;
     font-family: 'Times New Roman', Times, serif;
 }
-.projects { display:flex; flex-wrap:wrap; }
+.projects { 
+    display:flex; 
+    flex-wrap:wrap; 
+}
 .projects{
     width: 30%;
     margin: 10px;
