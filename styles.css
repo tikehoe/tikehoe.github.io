@@ -25,6 +25,14 @@ h1{
     background-color: #626767;
     font-family: 'Times New Roman', Times, serif;
 }
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid;
+    display: block;
+    margin: auto;
+    }
 .contact{
     background-color: #fada5f;
     font-family: 'Times New Roman', Times, serif;
